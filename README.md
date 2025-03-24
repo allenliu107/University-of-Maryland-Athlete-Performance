@@ -1,0 +1,3 @@
+A data pipeline using the DEXA API transfers and stores the data into Azure Blob Storage. Afterwards all data is transported into Microsoft’s Fabric service, a all-in-one cloud data analytics platform that combines their existing technologies such as OneLake, Azure Data Factory, and Power BI Reporting.
+
+First, a pipeline from the Data Factory was used to copy new blob data into a Lake House. Second, notebooks using Apache Spark were used to transform the structure of data for reporting as well as update existing data. Finally, A SQL Analytics Endpoint was created, exposing the data to a Semantic Model, which was then used by a Power BI report for visualization and analysis.
