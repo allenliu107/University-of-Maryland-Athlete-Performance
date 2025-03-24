@@ -1,10 +1,16 @@
 # Project Background
-The University of Maryland has 20 Division 1 teams which encompasses over 550 student athletes. To maximize the performance and health of athletes, coaches use monitoring tools such as Catapult Vests that track athlete workload, movement, and performance during practice and games. 
+The University of Maryland has 20 Division 1 teams, encompassing over 550 student-athletes. To optimize their performance and well-being, coaches use monitoring tools like Catapult vests to track workload, movement, and performance during practices and games.
 
-As an analyst my primary role was to build Power BI dashbaords that provided coaches the insights needed to elevate decision making. Additionaly, I also helped implement ETL pipelines and Spark notebooks utilizing Microsoft’s new data analytics/data engineering suite called Microsoft Fabric.
+As an analyst, my primary role was to build Power BI dashboards that provided coaches with key insights to enhance decision-making. Additionally, I helped implement ETL pipelines and Spark notebooks using Microsoft Fabric, Microsoft’s latest data analytics and engineering suite.
 
 # Data Processing
-The data process starts with the data collected being transferred into a Azure Blob Storage using a data pipeline and Catapult's API. Afterwards, the rest of data processes are done within Microsoft's Fabric platform where the data follows a medallion architecture. First, a pipeline from the Data Factory is used to transport data from blob into a initial unstructured Lake House called "Bronze", as well as update the Lakehouse with any new data. Second, notebooks using Apache Spark transform and structure of data for reporting while storing it in a Lakehouse labeled "Silver". Finally, a third gold layer was to prepare the data for 
+The data process begins with data collection, which is transferred to Azure Blob Storage via a data pipeline and Catapult’s API. From there, all data processing takes place within Microsoft Fabric, following a medallion architecture.
 
-. Finally, A SQL Analytics Endpoint is created, exposing the data to a Semantic Model, which was then used by a Power BI report for visualization and analysis.
+Bronze Layer (Raw Data) – A Data Factory pipeline moves the raw, unstructured data from Blob Storage into an initial Lakehouse (Bronze) while continuously updating it with new data.
+
+Silver Layer (Structured Data) – Apache Spark notebooks process, clean, and structure the data for reporting, storing it in a Lakehouse (Silver).
+
+Gold Layer (Refined Data) – The final layer prepares the data for integration with other tools, ensuring it is fully optimized for analysis.
+
+Finally, a SQL Analytics Endpoint is created to expose the refined data to a Semantic Model, which powers Power BI reports for visualization and in-depth analysis.
 ![image](https://github.com/user-attachments/assets/fd0b18b9-ce0f-485e-ba95-b1c9bf717dec)
