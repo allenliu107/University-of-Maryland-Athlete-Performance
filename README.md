@@ -1,3 +1,25 @@
+## Table of Contents  
+1. [Project Background](#project-background)  
+2. [Data Processing and Warehouse Architecture](#data-processing-and-warehouse-architecture)  
+   - [Data Ingestion and Storage](#data-ingestion-and-storage)  
+   - [Bronze Layer (Raw Data)](#bronze-layer-raw-data)  
+   - [Silver Layer (Structured Data)](#silver-layer-structured-data)  
+   - [Gold Layer (Refined Data)](#gold-layer-refined-data)  
+   - [SQL Analytics Endpoint](#sql-analytics-endpoint)  
+3. [Data Model](#data-model)  
+   - [Overview](#overview)  
+   - [Soccer Data Model](#soccer-data-model)  
+   - [Football Data Model](#football-data-model)  
+4. [Football Visualizations](#football-visualizations)  
+   - [Coach’s Report](#coachs-report)  
+   - [Report by Position Group](#report-by-position-group)  
+5. [Men’s Soccer Visualizations](#mens-soccer-visualizations)  
+   - [Individual Overview](#individual-overview)  
+   - [Individual Acute Chronic Workload Ratio (ACWR)](#individual-acute-chronic-workload-ratio-acwr)  
+   - [Team Overview](#team-overview)  
+   - [Weekly Trends](#weekly-trends)  
+   - [Game Overview](#game-overview)
+     
 # Project Background
 The University of Maryland has 20 Division 1 teams, encompassing over 550 student-athletes. To optimize their performance and health, coaches use wearable Catapult vests that track workload, movement, and performance during practices and games.
 
