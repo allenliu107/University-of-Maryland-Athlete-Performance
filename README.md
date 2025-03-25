@@ -50,16 +50,21 @@ The following dashboards provide a overview of athlete performance metrics acros
 ![Screenshot 2025-03-25 at 10 53 52 AM](https://github.com/user-attachments/assets/e9b6795d-04ac-459a-af96-289acc51bae0)
 
 # Men's Soccer Visualizations
-
+## Data Considerations
 ## Individual Overview
+The top portion of dashboard highlights distance, workload, and other performance indicators broken down by athletes with condtional formatting to quickly assess performance trends. The bottom portion of the dashboard includes a athlete and date slider that users can drag to observe the shifts in distance and workload metrics over time. 
 ![Individual Overview](https://github.com/user-attachments/assets/0162050f-1cf5-41a9-9087-d8bd1cc66e90)
 ## Individual Acute Chronic Workload Ratio
+ACWR is a athlete’s short-term workload relative to their long-term workload to assess injury risk and training load management, the following calculations for the visual utilize both a traditonal calculation as well as a Weighted Moving Average that increaseses the influence more recent data points have. A slider is provided for coaches to observe how the ACWR of a certain performance indicator changes over time.
 ![ACWR](https://github.com/user-attachments/assets/292d2334-d225-411f-9bbf-bf2dfffa690c)
 ## Team Overview
+The dashboard includes a range of filters that enable coaches to sort metrics by date, activity type such as match/practice name, team assignments based on player attributes such as injury status, and individual players. The dashboard provides an overview of athlete performance indicators and a table breaking down the key metrics by position. Additionaly, graphs are also shown for users to view team averages of the specified metric over time. 
 ![Team Overview](https://github.com/user-attachments/assets/bc8e880b-8861-4138-b94f-281167849787)
 ## Weekly Trends
+View average load metrics week by week seperated by team and individual. Users are able to filter by season, team, and individual player.
 ![Weekly Trends](https://github.com/user-attachments/assets/a1a2a712-661b-4aba-b8ee-4b2eb224ccf1)
 ## Game Overview
+View Peformance metrics of players by Game both in a table and graph. Users are able to filter by season, team, and individual player. 
 ![Game Overview](https://github.com/user-attachments/assets/ad8fb543-c999-4be8-8bee-d60e06eb8f6f)
 
 
