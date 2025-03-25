@@ -43,6 +43,8 @@ The dashboard provides the following key insights for coaches:
 ![image](https://github.com/user-attachments/assets/1031618d-4beb-43b8-a576-1acae09cb16c)
 
 ## Report for by Postion Group
+The following dashboards provide a overview of athlete performance metrics across different position groups . It highlights Distance, Player Load, Speed, breaking down each individual athlete. Additionally, Total Player Load and Explosive Efforts over time are also featured in a bar graph to offer insight on workload distribution accross different time periods. 
+
 ![Screenshot 2025-03-25 at 10 54 19 AM](https://github.com/user-attachments/assets/b1cdba40-2cee-4f09-ac6e-26b44e5599ab)
 ![Screenshot 2025-03-25 at 10 54 06 AM](https://github.com/user-attachments/assets/a23f0d13-d520-432f-a58d-f6211a376162)
 ![Screenshot 2025-03-25 at 10 53 52 AM](https://github.com/user-attachments/assets/e9b6795d-04ac-459a-af96-289acc51bae0)
