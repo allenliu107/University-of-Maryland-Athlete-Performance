@@ -31,6 +31,15 @@ A galaxy Schema with two fact tables (Sport)_Catapult_Periods_Summary and (Sport
 # Football Visualizations
 [Link to football]
 ## Coach's Report
+The dashboard provides the following key insights for coaches:
+
+**Player Load Metrics:** Displays overall player load per minute and rankings by position.
+
+**Distance Analysis:** Highlights 30+ yard efforts and 70+ yard efforts across different positions and top-performing athletes.
+
+**Speed Insights:** Lists the top 10 highest speeds recorded and an assessment of speed readiness (7-day window to reach 92% max speed).
+
+**Explosive Efforts:** Provides an average count of high-intensity efforts.
 ![image](https://github.com/user-attachments/assets/1031618d-4beb-43b8-a576-1acae09cb16c)
 
 ## Report for by Postion Group
