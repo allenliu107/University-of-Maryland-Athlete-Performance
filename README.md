@@ -3,7 +3,7 @@ The University of Maryland has 20 Division 1 teams, encompassing over 550 studen
 
 This project aimed to develop a performance analytics dashboard for over 10 team on a centrified cloud-based platform using Microsoft Fabric, Microsoft’s latest data analytics and data engineering suite. The dashboard will integrate data from Catapult and provide coaches with real-time insights to better lead their team.
 
-As an analyst, my primary role was to build Power BI dashboards and help implement ETL pipelines and Spark notebooks using Microsoft Fabric. Below consists a summary of data processes and the dashboards generated for the Football and Men's Soccer Team.
+As an analyst, my primary role was to build Power BI dashboards and help implement ETL pipelines and Spark notebooks. Below consists a summary of data processes and the dashboards generated for the Football and Men's Soccer Team.
 
 # Data Processing and Warehouse Architecture
 A data pipeline first initiates the transfer of data from the Catapult system to Azure Blob Storage via Catapult’s API.
@@ -28,15 +28,19 @@ A galaxy Schema with two fact tables (Sport)_Catapult_Periods_Summary and (Sport
 ![image](https://github.com/user-attachments/assets/d4c6f7ac-796b-49d5-a553-399579ebc417)
 
 
-# Football
+# Football Visualizations
 [Link to football]
-## Data Overview/Dax Formulas
+## Coach's Report
+![image](https://github.com/user-attachments/assets/1031618d-4beb-43b8-a576-1acae09cb16c)
 
+## Report for by Postion Group
+![Screenshot 2025-03-25 at 10 54 19 AM](https://github.com/user-attachments/assets/b1cdba40-2cee-4f09-ac6e-26b44e5599ab)
+![Screenshot 2025-03-25 at 10 54 06 AM](https://github.com/user-attachments/assets/a23f0d13-d520-432f-a58d-f6211a376162)
+![Screenshot 2025-03-25 at 10 53 52 AM](https://github.com/user-attachments/assets/e9b6795d-04ac-459a-af96-289acc51bae0)
 
-
-# Men's Soccer/Dax Formulas
+# Men's Soccer Visualizations
 [Link to Soccer]
-## Data Overview
+
 
 # Visualization Preview
 https://github.com/user-attachments/assets/f8c326dc-f09c-4178-a1b3-0f3dd805a7f0
