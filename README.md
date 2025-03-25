@@ -1,7 +1,7 @@
 # Project Background
-The University of Maryland has 20 Division 1 teams, encompassing over 550 student-athletes. To optimize their performance and health, coaches use monitoring tools like Catapult vests to track workload, movement, and performance during practices and games.
+The University of Maryland has 20 Division 1 teams, encompassing over 550 student-athletes. To optimize their performance and health, coaches use monitoring tools like wearable Catapult vests to track workload, movement, and performance during practices and games.
 
-This project aimed to develop a performance analytics dashboard for over 10 team on a centrified cloud-based platform using Microsoft Fabric, Microsoft’s latest data analytics and data engineering suite. The dashboard will integrate data from Catapult and provide coaches with real-time insights to better lead their team.
+This project aims to develop a performance analytics dashboard for 10+ teams on a centrified cloud-based platform using Microsoft Fabric, Microsoft’s latest data analytics and data engineering suite. The dashboard will integrate data from Catapult and provide coaches with real-time insights to better lead their team.
 
 As an analyst, my primary role was to build Power BI dashboards and help implement ETL pipelines and Spark notebooks. Below consists a summary of data processes and the dashboards generated for the Football and Men's Soccer Team.
 
