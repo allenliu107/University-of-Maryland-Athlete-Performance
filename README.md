@@ -40,6 +40,7 @@ A galaxy Schema with two fact tables (Sport)_Catapult_Periods_Summary and (Sport
 
 # Men's Soccer Visualizations
 [Link to Soccer]
+![Untitled design](https://github.com/user-attachments/assets/a6ff6b40-cfd2-49a4-a3a3-ac1c864656a0)
 
 
 # Visualization Preview
