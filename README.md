@@ -20,8 +20,13 @@ Finally, a SQL Analytics Endpoint is created to expose the data to a Semantic Mo
 ![image](https://github.com/user-attachments/assets/fd0b18b9-ce0f-485e-ba95-b1c9bf717dec)
 
 # Data Model
-A galaxy Schema with two fact tables MSC_Catapult_Periods_Summary and MSC_Catapult_Activity_Summary, were chosen to enable accurate data across different levels of granularity. MSC_Catapult_Periods_Summary stored aggregated performance data for predefined periods such as warmup or first quarter, while MSC_Catapult_Activity_Summary tracked activity-based metrics, meaning each record were tied to a specific movement rather than a broad period, allowing both time-series and comparative analysis. Shared dimension tables, such as Athletes, Date, and Activity Details, allow for efficient filtering and comparison across multiple datasets, ensuring that queries remain optimized for efficency. 
+A galaxy Schema with two fact tables MSC_Catapult_Periods_Summary and MSC_Catapult_Activity_Summary, were chosen to enable accurate data across different levels of granularity. MSC_Catapult_Periods_Summary stored aggregated performance data for predefined periods such as warmup or first quarter, while MSC_Catapult_Activity_Summary tracked activity-based metrics, meaning each record were tied to a specific movement rather than a broad period, allowing both time-series and comparative analysis. Shared dimension tables, such as Athletes, Date, and Activity Details, allowed for efficient filtering and comparison across multiple datasets, ensuring that queries remain optimized for efficency. 
 ![image](https://github.com/user-attachments/assets/289cc0e0-2e20-41a5-99a1-fa5bdb6a21f9)
+
+# Visualization Preview
+
+https://github.com/user-attachments/assets/f8c326dc-f09c-4178-a1b3-0f3dd805a7f0
+
 
 
 
