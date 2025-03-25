@@ -22,9 +22,9 @@ Finally, a SQL Analytics Endpoint is created to expose the data to a Semantic Mo
 # Data Model
 A galaxy Schema with two fact tables (Sport)_Catapult_Periods_Summary and (Sport)_Catapult_Activity_Summary, were chosen to enable accurate data across different levels of granularity. (Sport)_Catapult_Periods_Summary stored aggregated performance data for predefined periods such as warmup or first quarter, while (Sport)_Catapult_Activity_Summary tracked activity-based metrics, meaning each record were tied to a specific movement rather than a broad period, allowing both time-series and comparative analysis. Shared dimension tables, such as Athletes, Date, and Activity Details, allowed for efficient filtering and comparison across multiple datasets, ensuring that queries remain optimized for efficency. 
 
-**Soccer:**
+## Soccer Data Model
 ![image](https://github.com/user-attachments/assets/289cc0e0-2e20-41a5-99a1-fa5bdb6a21f9)
-**Football:**
+## Football Data Model
 ![image](https://github.com/user-attachments/assets/d4c6f7ac-796b-49d5-a553-399579ebc417)
 
 
