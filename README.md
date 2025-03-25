@@ -39,12 +39,18 @@ A galaxy Schema with two fact tables (Sport)_Catapult_Periods_Summary and (Sport
 ![Screenshot 2025-03-25 at 10 53 52 AM](https://github.com/user-attachments/assets/e9b6795d-04ac-459a-af96-289acc51bae0)
 
 # Men's Soccer Visualizations
-[Link to Soccer]
-![Untitled design](https://github.com/user-attachments/assets/a6ff6b40-cfd2-49a4-a3a3-ac1c864656a0)
 
+## Individual Overview
+![Individual Overview](https://github.com/user-attachments/assets/0162050f-1cf5-41a9-9087-d8bd1cc66e90)
+## Individual Acute Chronic Workload Ratio
+![ACWR](https://github.com/user-attachments/assets/292d2334-d225-411f-9bbf-bf2dfffa690c)
+## Team Overview
+![Team Overview](https://github.com/user-attachments/assets/bc8e880b-8861-4138-b94f-281167849787)
+## Weekly Trends
+![Weekly Trends](https://github.com/user-attachments/assets/a1a2a712-661b-4aba-b8ee-4b2eb224ccf1)
+## Game Overview
+![Game Overview](https://github.com/user-attachments/assets/ad8fb543-c999-4be8-8bee-d60e06eb8f6f)
 
-# Visualization Preview
-https://github.com/user-attachments/assets/f8c326dc-f09c-4178-a1b3-0f3dd805a7f0
 
 
 
