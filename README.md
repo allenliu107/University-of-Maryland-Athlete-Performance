@@ -29,7 +29,7 @@ A galaxy Schema with two fact tables (Sport)_Catapult_Periods_Summary and (Sport
 
 
 # Football Visualizations
-[Link to football]
+
 ## Coach's Report
 The dashboard delivers key insights for coaches by analyzing various performance metrics. It includes Player Load Metrics, which track overall player load per minute and rank athletes by position. The Distance Analysis highlights high-effort movements, such as 30+ and 70+ yard efforts, across different positions and top-performing athletes. Additionally, Speed Insights showcase the top 10 highest speeds recorded and assess speed readiness based on a seven-day window to reach 92% of maximum speed. Lastly, the Explosive Efforts metric provides an average count of high-intensity movements, helping coaches evaluate player performance and workload effectively.
 
@@ -43,7 +43,7 @@ The following dashboards provide an overview of athlete performance metrics acro
 ![Screenshot 2025-03-25 at 10 53 52 AM](https://github.com/user-attachments/assets/e9b6795d-04ac-459a-af96-289acc51bae0)
 
 # Men's Soccer Visualizations
-## Data Considerations
+
 ## Individual Overview
 The dashboard provides an analysis of an individual athlete's performance. The top section highlights key metrics such as distance, workload, and other performance indicators, using conditional formatting to help coaches quickly identify trends. The bottom section features an interactive athlete and date slider, allowing users to track changes in distance and workload metrics over time for a more detailed performance assessment.
 ![Individual Overview](https://github.com/user-attachments/assets/0162050f-1cf5-41a9-9087-d8bd1cc66e90)
