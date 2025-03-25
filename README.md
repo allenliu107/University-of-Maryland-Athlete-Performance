@@ -1,11 +1,6 @@
 ## Table of Contents  
 1. [Project Background](#project-background)  
 2. [Data Processing and Warehouse Architecture](#data-processing-and-warehouse-architecture)  
-   - [Data Ingestion and Storage](#data-ingestion-and-storage)  
-   - [Bronze Layer (Raw Data)](#bronze-layer-raw-data)  
-   - [Silver Layer (Structured Data)](#silver-layer-structured-data)  
-   - [Gold Layer (Refined Data)](#gold-layer-refined-data)  
-   - [SQL Analytics Endpoint](#sql-analytics-endpoint)  
 3. [Data Model](#data-model)  
    - [Overview](#overview)  
    - [Soccer Data Model](#soccer-data-model)  
