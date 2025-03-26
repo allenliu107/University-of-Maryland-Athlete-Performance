@@ -16,7 +16,8 @@
    - [Game Overview](#game-overview)
      
 # Project Background
-![Screenshot 2025-03-25 at 9 44 16 PM](https://github.com/user-attachments/assets/ed2d6791-6ce1-448d-b69c-698a18f25f26)The University of Maryland has 20 Division 1 teams, encompassing over 550 student-athletes. To optimize their performance and health, coaches use wearable Catapult vests that track workload, movement, and performance during practices and games.
+![image](https://github.com/user-attachments/assets/953c2f94-2e92-4d63-a86e-d0f92aebdf94)
+The University of Maryland has 20 Division 1 teams, encompassing over 550 student-athletes. To optimize their performance and health, coaches use wearable Catapult vests that track workload, movement, and performance during practices and games.
 
 This project aims to develop a performance analytics dashboard for 10+ teams using Microsoft’s latest data analytics and data engineering suite, Fabric. The dashboards are cloud based and will integrate data from Catapult to provide coaches real-time insights to effectively lead their team.
 
