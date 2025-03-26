@@ -40,8 +40,10 @@ Finally, a SQL Analytics Endpoint is created to expose the data to a Semantic Mo
 A galaxy Schema with two fact tables (Sport)_Catapult_Periods_Summary and (Sport)_Catapult_Activity_Summary, were chosen to enable accurate data across different levels of granularity. (Sport)_Catapult_Periods_Summary stored aggregated performance data for predefined periods such as warm up or first quarter, while (Sport)_Catapult_Activity_Summary tracked activity-based metrics, meaning each record was tied to a specific movement rather than a broad period. This enabled both time-series and comparative analysis to occur at the Power BI level. Additionally, shared dimension tables, such as Athletes, Date, and Activity Details, allowed for efficient filtering and comparison across multiple datasets, ensuring that queries remain optimized for efficency. 
 
 ## Soccer Data Model
+[Download PDF for Better Image Quality](https://github.com/allenliu107/University-of-Maryland-Athlete-Performance/blob/main/MSC_DataModel.pdf)
 ![image](https://github.com/user-attachments/assets/289cc0e0-2e20-41a5-99a1-fa5bdb6a21f9)
 ## Football Data Model
+[Download PDF for Better Image Quality](https://github.com/allenliu107/University-of-Maryland-Athlete-Performance/blob/main/Football%20Catapult%20Data%20Model.pdf)
 ![image](https://github.com/user-attachments/assets/d4c6f7ac-796b-49d5-a553-399579ebc417)
 
 
